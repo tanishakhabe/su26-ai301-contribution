@@ -1,4 +1,3 @@
-[contribution_readme.md](https://github.com/user-attachments/files/28687544/contribution_readme.md)
 # Contribution [#]: [Issue Title]
 
 **Contribution Number:** [1 / 2 / 3]  
