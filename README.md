@@ -2,7 +2,7 @@
 
 **Contribution Number:** [1 / 2 / 3]  
 **Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
+**Issue:** [https://github.com/documentdb/functional-tests/issues/211]  
 **Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
 
 ---
