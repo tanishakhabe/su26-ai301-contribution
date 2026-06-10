@@ -8,8 +8,11 @@
 ---
 
 ## Why I Chose This Issue
+Here's a version that would fit your background and sound genuine:
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I'm interested in working on this issue because I'm looking to gain more experience contributing to open-source projects and becoming comfortable navigating larger, unfamiliar codebases. Since this issue focuses on adding compatibility test coverage rather than implementing new functionality, it seems like a great opportunity to learn the repository structure, testing framework, and contribution workflow while still making a meaningful contribution.
+
+My background includes software engineering, machine learning, and data-focused projects in Python, where I've written and maintained tests as part of project development. I'm particularly interested in learning how compatibility testing is organized in a production open-source project and how expression operators are validated across different implementations. Through this issue, I hope to strengthen my testing and debugging skills while gaining experience collaborating with maintainers and contributing to a real-world codebase.
 
 ---
 
